@@ -1,6 +1,6 @@
 Name:		texlive-marginfit
 Version:	48281
-Release:	1
+Release:	2
 Summary:	Improved margin notes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/marginfit
