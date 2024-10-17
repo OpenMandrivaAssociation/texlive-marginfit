@@ -3,7 +3,7 @@ Version:	48281
 Release:	2
 Summary:	Improved margin notes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/marginfit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/marginfit
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/marginfit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/marginfit.doc.r%{version}.tar.xz
